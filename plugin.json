@@ -1,0 +1,9 @@
+{
+  "name": "website-cloner",
+  "version": "4.0.0",
+  "description": "Deterministic website cloning skill — reverse-engineers any website into a pixel-accurate reproduction",
+  "author": "Azeem Khan",
+  "skills": [
+    "skills/website-cloner"
+  ]
+}
