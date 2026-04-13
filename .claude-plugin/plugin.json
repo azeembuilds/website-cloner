@@ -2,8 +2,8 @@
   "name": "website-cloner",
   "version": "5.0.0",
   "description": "Deterministic website cloning plugin with sub-agent dispatched architecture. Reverse-engineers any website into a pixel-accurate reproduction. Phases (extract, reconstruct, compare) run as isolated sub-agents that return summaries instead of raw output, preserving main conversation context.",
-  "author": "Azeem Khan",
-  "skills": [
-    "skills/website-cloner"
-  ]
+  "author": {
+    "name": "Azeem Khan",
+    "email": "azeem@calyber.ai"
+  }
 }
