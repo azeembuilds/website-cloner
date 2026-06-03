@@ -2,6 +2,8 @@
 
 A Claude Code plugin that clones any live website into editable HTML and CSS. Point it at a URL. Come back to working code that looks like the original.
 
+![website-cloner reproducing a live site as editable HTML and CSS at 96.6% pixel match](docs/demo.gif)
+
 ## What it does
 
 Give it a URL. It extracts everything a website tells the browser (layout, typography, colors, component structure, animations, responsive breakpoints), then reconstructs that site as clean HTML and CSS in a fresh workspace.
